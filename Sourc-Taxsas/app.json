@@ -9,7 +9,7 @@
   ],
   "success_url": "https://T.me/L6L6P",
   "website": "https://github.com/SOURC-TEXAS",
-  "المستودع" : "https://github.com/RHHPP/SOURC-TEXAS/edit/main/Sourc-Taxsas/app.json"،
+  "المستودع" : "https://github.com/RHHPP/SOURC-TEXAS/tree/main/Sourc-Taxsas"،
   "env": {
     "BOT_TOKEN": {
       "description": "ضع هنا توكن البوت احصل عليه من هنا  https://t.me/botfather",
