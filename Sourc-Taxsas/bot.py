@@ -10,7 +10,7 @@ downloads = './downloads/{}/'
 
 START_BUTTONS=[
     [
-        InlineKeyboardButton('السورس', url='https://github.com/SOURSC-TAXAS/HEEL1'),
+        InlineKeyboardButton ( 'السورس' ، url = 'https://github.com/RHHPP/SOURC-TEXAS/tree/main/Sourc-Taxsas' ) ،
         InlineKeyboardButton('قناة البوتات', url='https://t.me/L6L6P'),
     ],]
 
